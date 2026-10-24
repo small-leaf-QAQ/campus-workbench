@@ -1,0 +1,21 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# 依赖与缓存（本项目正常不需要，但别人可能顺手装东西）
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 配置与凭据：绝对不要提交
+.env
+.env.*
+data.json
+mail.html
+*凭证*.json
+
+# 本机导出的备份（含个人数据）
+校园生活工作台-备份-*.json

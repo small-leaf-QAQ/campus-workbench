@@ -1,0 +1,113 @@
+{
+  "title": "merged",
+  "properties": {
+    "课程名称": {
+      "type": "text"
+    },
+    "星期": {
+      "type": "select"
+    },
+    "节次": {
+      "type": "select"
+    },
+    "地点": {
+      "type": "text"
+    },
+    "教师": {
+      "type": "text"
+    },
+    "周次": {
+      "type": "text"
+    },
+    "精确节次": {
+      "type": "text"
+    },
+    "任务名称": {
+      "type": "text"
+    },
+    "所属课程": {
+      "type": "text"
+    },
+    "截止时间": {
+      "type": "date"
+    },
+    "提交方式": {
+      "type": "select"
+    },
+    "重要度": {
+      "type": "select"
+    },
+    "状态": {
+      "type": "select"
+    },
+    "来源摘录": {
+      "type": "text"
+    },
+    "待确认项": {
+      "type": "text"
+    },
+    "总任务": {
+      "type": "text"
+    },
+    "阶段名称": {
+      "type": "text"
+    },
+    "交付物": {
+      "type": "text"
+    },
+    "计划开始": {
+      "type": "date"
+    },
+    "计划完成": {
+      "type": "date"
+    },
+    "预估依据": {
+      "type": "text"
+    },
+    "提醒邮箱": {
+      "type": "email"
+    },
+    "每日推送时间": {
+      "type": "text"
+    },
+    "每日汇总": {
+      "type": "checkbox"
+    },
+    "截止倒计时": {
+      "type": "checkbox"
+    },
+    "长任务节点提醒": {
+      "type": "checkbox"
+    },
+    "提前提醒天数": {
+      "type": "number"
+    },
+    "最近推送记录": {
+      "type": "text"
+    },
+    "群名称": {
+      "type": "text"
+    },
+    "发送人": {
+      "type": "text"
+    },
+    "消息原文": {
+      "type": "text"
+    },
+    "消息时间": {
+      "type": "text"
+    },
+    "处理状态": {
+      "type": "text"
+    },
+    "去向": {
+      "type": "text"
+    },
+    "结果引用": {
+      "type": "text"
+    },
+    "备注": {
+      "type": "text"
+    }
+  }
+}
